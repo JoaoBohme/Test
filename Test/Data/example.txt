@@ -1,0 +1,3 @@
+medicina; 1990
+paz; 1995
+economia;2010
